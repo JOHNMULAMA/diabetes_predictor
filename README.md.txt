@@ -8,3 +8,7 @@ You can download it from the UCI Machine Learning Repository or any other reliab
 
 #Run
 python "name of specific file"
+
+  1.predictor.py
+  2.trainer.py
+  3.user_interface.py
